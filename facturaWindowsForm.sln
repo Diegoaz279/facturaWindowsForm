@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facturaWindowsForm", "facturaWindowsForm\facturaWindowsForm.csproj", "{5DEF86F7-B237-4ACA-8AE0-88B5B081428C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DEF86F7-B237-4ACA-8AE0-88B5B081428C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DEF86F7-B237-4ACA-8AE0-88B5B081428C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DEF86F7-B237-4ACA-8AE0-88B5B081428C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DEF86F7-B237-4ACA-8AE0-88B5B081428C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {539B37F9-CB0F-4B3A-8569-DA1B18327079}
+	EndGlobalSection
+EndGlobal
